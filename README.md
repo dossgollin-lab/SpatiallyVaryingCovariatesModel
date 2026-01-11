@@ -1,21 +1,5 @@
 # Spatially Varying Covariate Model
-This repository includes the codes for the manuscript [Hierarchical Bayesian Spatial Framework Reveals Robust Increasing Trends in Daily Extreme Rainfall Across the Western Gulf Coast](https://arxiv.org/abs/2502.02000). The paper is currently under review, so this repository is preliminary and subject to updates.
-
-## How to cite
-
-To cite our results/methods, please cite it like follows:
-
-```
-@misc{lu2025bayesianspatiotemporalnonstationarymodel,
-      title={Bayesian Spatiotemporal Nonstationary Model Quantifies Robust Increases in Daily Extreme Rainfall Across the Western Gulf Coast}, 
-      author={Yuchen Lu and Ben Seiyon Lee and James Doss-Gollin},
-      year={2025},
-      eprint={2502.02000},
-      archivePrefix={arXiv},
-      primaryClass={stat.AP},
-      url={https://arxiv.org/abs/2502.02000}, 
-}
-```
+This repository includes the codes for the manuscript [Bayesian spatiotemporal nonstationary model quantifies robust increases in daily extreme rainfall across the Western Gulf Coast](https://iopscience.iop.org/article/10.1088/2752-5295/adf56e). 
 
 ## How to use
 
